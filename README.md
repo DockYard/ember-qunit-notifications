@@ -12,7 +12,7 @@ This library follows [Semantic Versioning](http://semver.org)
 
 ## Want to help? ##
 
-Please do! We are always looking to improve this gem. Please see our
+Please do! We are always looking to improve this package. Please see our
 [Contribution Guidelines](https://github.com/dockyard/qunit-notifications/blob/master/CONTRIBUTING.md)
 on how to properly submit issues and pull requests.
 
