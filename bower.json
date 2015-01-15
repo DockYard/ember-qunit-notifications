@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "qunit-notifications": "~0.0.4"
+    "qunit-notifications": "~0.0.5"
   }
 }
